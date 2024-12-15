@@ -9,5 +9,9 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   typescript: {
     typeCheck: true
+  },
+  i18n: {
+    vueI18n: './plugin/i18n.config.ts',
+    locales: ['en', 'ar']
   }
 })
