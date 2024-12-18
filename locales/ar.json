@@ -1,3 +1,24 @@
 {
-    "welcome": "مرحبا"
+    "welcome": "مرحبا",
+    "Login":"تسجيل الدخول",
+    "email":"البريد الالكتروني",
+    "password":"كلمة المرور",
+    "The form has been submitted.":"تم تقديم النموذج.",
+    "Submit":"ارسال",
+    "zodI18n": {
+    "errors": {
+      "invalid_type_received_undefined": "مطلوب",
+      "invalid_string": {
+        "email": "بريد الالكتروني غير صالح"
+    },
+    "too_small": {
+      "string": {
+        "inclusive": "يجب أن تحتوي على 8 أحرف على الأقل"
+      }
+    }
+    },
+    "validations":{
+        "email":"بريد الالكتروني غير صالح"
+    }
+  }
 }

@@ -1,3 +1,24 @@
 {
-    "welcome": "welcome"
+    "welcome": "welcome",
+    "Login":"Login",
+    "email":"email",
+    "password":"password",
+    "The form has been submitted.":"The form has been submitted.",
+    "Submit":"Submit",
+    "zodI18n": {
+    "errors": {
+      "invalid_type_received_undefined": "Required",
+      "invalid_string": {
+        "email": "Invalid email"
+    },
+    "too_small": {
+      "string": {
+        "inclusive": "Must be at least 8 characters"
+      }
+    }
+    },
+    "validations":{
+        "email":"Invalid email"
+    }
+  }
 }
